@@ -1,0 +1,45 @@
+.fundo {
+	position: absolute;
+	background-color: lightgrey;
+	width: 923px;
+	height: 600px;
+}
+.logo{
+	position: absolute;
+	top:70px;
+	left: 10px;
+	
+
+
+
+}
+.black {
+	position: absolute;
+	background-color: black;
+	width:923px;
+	height:20px;
+	top:600px;
+	
+}
+.direitos{
+	position: absolute;
+  	bottom: -15px;
+  	left: 290px;
+  	color: white;	
+	font-size: 11px;
+}
+.linhas{
+	position:absolute;
+	left:1.2%;
+	bottom:32%;
+	
+	width: 16.6%;
+	top:;
+}
+.gif{
+	position:absolute;
+	left:290px;
+	top:280px;
+	
+
+}
